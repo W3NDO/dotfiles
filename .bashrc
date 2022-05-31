@@ -160,6 +160,3 @@ export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 
 #start work stuff
 alias work="cd ~/Desktop/work-account/VIPRails && code . && foreman start -f Procfile.dev"
-
-export VIPRAILS_DATABASE_PASSWORD=viprails_1
-export VIPRAILS_DATABASE_USERNAME=viprails
